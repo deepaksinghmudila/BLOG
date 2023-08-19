@@ -11,3 +11,9 @@ __pycache__/
 *.wav
 *.jpg
 *.png
+
+#avoid migrations file
+home/migrations/
+blogapp/migrations/
+
+*.sqlite3
